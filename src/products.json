@@ -1,0 +1,22 @@
+{
+    "0": {
+        "name": "Aloe",
+        "description": "Desert Plant",
+        "price": 10
+    },
+    "1": {
+        "name": "Snake Plant",
+        "description": "Desert Plant",
+        "price": 10
+    },
+    "2": {
+        "name": "Philodendron",
+        "description": "Desert Plant",
+        "price": 10
+    },
+    "3": {
+        "name": "Lily",
+        "description": "Desert Plant",
+        "price": 10
+    }
+}

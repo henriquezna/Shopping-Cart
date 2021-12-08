@@ -11,3 +11,60 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Navbar {
+  font-size: 24px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  padding-left: 10px;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #000;
+}
+
+.navRight {
+  float: right;
+}
+
+.Home {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+aside {
+  float: right;
+  width: 25%
+}
+
+.Shop {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ProductCard {
+  flex: 1 0 21%;
+  background-color: #E8E8E8;
+  width: 300px;
+  height: 500px;
+}
+
+.ProductCard img {
+  width: 200px;
+  height: 300px;
+}
