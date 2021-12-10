@@ -5,12 +5,11 @@ export const Cart = () => {
 
     function updateCart(newItem) {
         let newArr = [...cartItems];
-        let amount = document.querySelector('#amount').value;
+        let amount = document.querySelector('#amount'+newItem[0]).value;
         for(let i = 0; i < amount; i++){
             newArr.push(newItem)
             setCartItems(newArr);
         }
-        console.log(cartItems);
     }
 
     return [cartItems, updateCart];

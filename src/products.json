@@ -2,21 +2,25 @@
     "0": {
         "name": "Aloe",
         "description": "Desert Plant",
+        "image": "aloe",
         "price": 10
     },
     "1": {
         "name": "Snake Plant",
-        "description": "Desert Plant",
-        "price": 10
+        "description": "SSSSsss",
+        "image": "snake",
+        "price": 15
     },
     "2": {
         "name": "Philodendron",
-        "description": "Desert Plant",
-        "price": 10
+        "description": "Big word plant",
+        "image": "philodendron",
+        "price": 25
     },
     "3": {
         "name": "Lily",
-        "description": "Desert Plant",
-        "price": 10
+        "description": "Pretty",
+        "image": "lily",
+        "price": 28
     }
 }
