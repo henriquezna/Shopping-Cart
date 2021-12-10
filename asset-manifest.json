@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.1e8bfda5.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.61356f5c.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.61356f5c.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.a84e3710.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.a84e3710.js.map",
+    "static/js/2.86cb5ed3.chunk.js": "/shopping-cart/static/js/2.86cb5ed3.chunk.js",
+    "static/js/2.86cb5ed3.chunk.js.map": "/shopping-cart/static/js/2.86cb5ed3.chunk.js.map",
+    "static/js/3.cbebe861.chunk.js": "/shopping-cart/static/js/3.cbebe861.chunk.js",
+    "static/js/3.cbebe861.chunk.js.map": "/shopping-cart/static/js/3.cbebe861.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "static/css/main.1e8bfda5.chunk.css.map": "/shopping-cart/static/css/main.1e8bfda5.chunk.css.map",
+    "static/js/2.86cb5ed3.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.86cb5ed3.chunk.js.LICENSE.txt",
+    "static/media/aloe-vera.362d7f40.jpg": "/shopping-cart/static/media/aloe-vera.362d7f40.jpg",
+    "static/media/indoorPlant.8536b35b.jpg": "/shopping-cart/static/media/indoorPlant.8536b35b.jpg",
+    "static/media/lily.26508d35.jpg": "/shopping-cart/static/media/lily.26508d35.jpg",
+    "static/media/philodendron.63e55a87.jpg": "/shopping-cart/static/media/philodendron.63e55a87.jpg",
+    "static/media/snake-plant.7e368429.jpg": "/shopping-cart/static/media/snake-plant.7e368429.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a84e3710.js",
+    "static/js/2.86cb5ed3.chunk.js",
+    "static/css/main.1e8bfda5.chunk.css",
+    "static/js/main.61356f5c.chunk.js"
+  ]
+}
