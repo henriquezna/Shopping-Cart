@@ -14,7 +14,7 @@ function App() {
       <BrowserRouter>
         <NavBar cart={cart} updateCart={updateCart} />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/shopping-cart" element={<Home />} />
           <Route path="/shop" element={<Shop cart={cart} updateCart={updateCart} />} />
           <Route path="/checkout" element={<Checkout cart={cart} updateCart={updateCart} />} />
           <Route path="/finishCheckout" element={<FinishCheckout />} />
