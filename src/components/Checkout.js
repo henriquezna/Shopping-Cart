@@ -18,7 +18,7 @@ function Checkout ({cart, updateCart}) {
     <div className="Checkout">
       <h1>Checkout!</h1>
       <h2>{cards}</h2>
-      <p>{'Total: '+total}</p>
+      <p>{'Total: $'+total}</p>
       <button onClick={() => window.location.href="/finishCheckout"}>Checkout</button>
     </div>
   );

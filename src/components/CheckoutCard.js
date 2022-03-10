@@ -17,11 +17,10 @@ function CheckoutCard ({cart, updateCart, name, description, image, price}) {
     }
 
     return (
-      <div className="Checkout">
-        <h2>{name}</h2>
-        <p>{description}</p>
+      <div className="Checkout__card">
+        <div>{name}</div>
         <img src={picture} alt="PLANT"></img>
-        <p>{'$'+price}</p>
+        <div>{'$'+price}</div>
       </div>
     );
   }

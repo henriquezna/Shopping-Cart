@@ -11,7 +11,7 @@ function Shop ({cart, updateCart}) {
 
   return (
     <div className="Shop">
-      <h1>Plants for any Season!</h1>
+      <h1 className="Shop__title">Plants for any Season!</h1>
       <div className="cardContainer">
         {cards}
       </div>
